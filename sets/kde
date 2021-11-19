@@ -1,0 +1,7 @@
+kde-apps/kdeadmin-meta
+kde-apps/kdecore-meta
+kde-apps/kdegraphics-meta
+kde-apps/kdeutils-meta
+kde-plasma/plasma-meta
+kde-plasma/sddm-kcm
+x11-base/xorg-drivers

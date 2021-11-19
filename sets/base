@@ -1,0 +1,6 @@
+app-admin/sudo
+app-misc/tmux
+app-shells/zsh
+sys-boot/grub
+sys-fs/dosfstools
+sys-kernel/gentoo-kernel-bin

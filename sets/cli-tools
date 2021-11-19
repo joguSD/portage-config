@@ -1,0 +1,10 @@
+app-editors/neovim
+app-editors/vim
+app-misc/neofetch
+app-portage/genlop
+app-portage/gentoolkit
+app-text/tree
+dev-vcs/git
+sys-process/htop
+www-client/links
+www-client/lynx
